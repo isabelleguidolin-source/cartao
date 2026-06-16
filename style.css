@@ -1,0 +1,21 @@
+h1, h2  {
+    color:  rgb(223, 171, 214);
+    background-color: rgb(255, 255, 255);
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
+}
+img{
+    width: 400px;
+    margin-top: 50px;
+}
+body{
+    text-align: center;
+   
+    background-image: url("rocambole.webp");
+        background-size: 8%;
+}
+
+
+
